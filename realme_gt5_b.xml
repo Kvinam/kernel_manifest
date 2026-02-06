@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- <project remote="origin" name="android_kernel_common_realme_sm8550" path="kernel_platform/common" revision="realme/sm8550_v_16.0.0_GT5"> -->
   <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
   <remote fetch="https://github.com/realme-kernel-opensource" name="realme-kernel-opensource"/>
   <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
